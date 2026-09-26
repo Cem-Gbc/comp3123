@@ -1,0 +1,23 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab 03 - Node.js core http server with an Employee module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "commonjs",
+    "rest",
+    "api"
+  ],
+  "author": "Cem Dudu",
+  "homepage": "https://nodejs.org/",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
